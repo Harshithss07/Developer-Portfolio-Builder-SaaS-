@@ -1,0 +1,6 @@
+{
+  "name": "DevFolio AI",
+  "description": "An AI-powered Developer Portfolio Builder SaaS platform that allows users to create, customize, and publish portfolios visually with instant live preview, AI generation, and GitHub syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
